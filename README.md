@@ -8,7 +8,7 @@
 ##### You can use R, Python, SAS Enterprise Miner or any other tool.
 ##### What will be predicted score if a student studies for 9.25 hrs/ day?
 ##### Youtube Link
-##### Code Link
+##### Code Link - https://git.io/JZIra
 
 
 # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
@@ -18,4 +18,4 @@
 ##### Data can be found at https://bit.ly/3kXTdox
 ##### You can use R, Python, SAS Enterprise Miner or any other tool.
 ##### Youtube Link
-##### Code Link
+##### Code Link - https://git.io/JZIr9
